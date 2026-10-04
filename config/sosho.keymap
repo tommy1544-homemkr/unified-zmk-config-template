@@ -7,7 +7,6 @@
 #include <dt-bindings/zmk/pointing.h>
 #include <dt-bindings/zmk/outputs.h>
 
-
 / {
 	behaviors {
         ec_ms_l: ec_ms_h {
